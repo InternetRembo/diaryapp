@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 Saheer Anas
+Copyright (c) 2022 Volodymyr Zviryk
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
